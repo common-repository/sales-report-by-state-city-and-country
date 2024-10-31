@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Report By State , City and Country\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 06:41+0000\n"
+"PO-Revision-Date: 2023-09-26 06:42+0000\n"
+"Last-Translator: development plugins\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: product-sales-report"
+
+#: includes/admin/class-devsoul-psbs-admin.php:177
+#: includes/admin/class-devsoul-psbs-admin.php:229
+msgid " Enable Checkbox"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:148
+#: includes/admin/views/product-sales-report.php:117
+msgid "-"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:274
+#: includes/admin/views/product-sales-report.php:313
+msgid "Action"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:206
+#: includes/admin/class-devsoul-psbs-admin.php:258
+msgid "Additional Content"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:143
+msgid "All these options is available in only paid version"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:269
+msgid "Billing Name"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:139
+#: includes/admin/views/product-sales-report.php:108
+msgid "Custom Date"
+msgstr ""
+
+#. Author of the plugin
+msgid "devsoul"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:302
+#: includes/admin/views/product-sales-report.php:342
+msgid "Edit Product"
+msgstr ""
+
+#: includes/admin/settings/email-setting.php:25
+msgid "Email CSV Sale by Order"
+msgstr ""
+
+#: includes/admin/settings/email-setting.php:14
+msgid "Email CSV Sale by product "
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:92
+msgid "Email Settings"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:239
+#: includes/admin/views/product-sales-report.php:247
+msgid "Enter City"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:242
+msgid "Enter multiple cities with comma separated"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:191
+#: includes/admin/class-devsoul-psbs-admin.php:243
+msgid "Enter multiple email with comma separated."
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:166
+#: includes/admin/views/product-sales-report.php:136
+msgid "Export CSV"
+msgstr ""
+
+#: includes/class-devsoul-psbs-ajax.php:23 includes/class-devsoul-psbs-ajax.php:54
+msgid "Failed Security check!"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:155
+#: includes/admin/views/product-sales-report.php:124
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:88
+msgid "General Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Get Sale by state and Country."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://devsoul.store/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://devsoul.store/product/sales-report-by-state-city-and-country/"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:133
+#: includes/admin/views/product-sales-report.php:102
+msgid "Last 7 Days"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:120
+#: includes/admin/views/product-sales-report.php:89
+msgid "Last Month"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:161
+#: includes/admin/views/order-sales-report.php:231
+#: includes/admin/views/order-sales-report.php:244
+#: includes/admin/views/product-sales-report.php:130
+#: includes/admin/views/product-sales-report.php:239
+#: includes/admin/views/product-sales-report.php:252
+msgid "Options is available in only paid version"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:268
+msgid "Order Id"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:322
+msgid "Order Shipping Total"
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:309
+msgid "Price"
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:307
+msgid "Product"
+msgstr ""
+
+#. Page title.
+#: includes/admin/class-devsoul-psbs-admin.php:42
+msgid "Product Sale by State"
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:145
+msgid "Product Search"
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:308
+msgid "Purchase Qty"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:187
+#: includes/admin/class-devsoul-psbs-admin.php:239
+msgid "Recipient(s)"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:91
+msgid "Sales By Order"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:89
+msgid "Sales By Products"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:84
+msgid "Sales Report"
+msgstr ""
+
+#. Name of the plugin
+msgid "Sales Report By State , City and Country"
+msgstr ""
+
+#: class-sales-report-by-state-city-and-country-main.php:33
+msgid ""
+"Sales Report By State , City and Country is inactive. WooCommerce plugin "
+"must be active in order to activate it."
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:164
+msgid "Search Category"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:190
+#: includes/admin/views/product-sales-report.php:199
+msgid "Select Countries"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:174
+#: includes/admin/views/product-sales-report.php:183
+msgid "Select Order Status"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:209
+#: includes/admin/views/product-sales-report.php:218
+msgid "Select State"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:271
+msgid "Shipping"
+msgstr ""
+
+#: includes/admin/class-devsoul-psbs-admin.php:197
+#: includes/admin/class-devsoul-psbs-admin.php:249
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:272
+#: includes/admin/views/order-sales-report.php:314
+#: includes/admin/views/product-sales-report.php:311
+#: includes/admin/views/product-sales-report.php:356
+msgid "Subtotal"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:127
+#: includes/admin/views/product-sales-report.php:96
+msgid "This Month"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:273
+#: includes/admin/views/order-sales-report.php:326
+#: includes/admin/views/product-sales-report.php:312
+#: includes/admin/views/product-sales-report.php:364
+msgid "Total"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:270
+#: includes/admin/views/order-sales-report.php:318
+#: includes/admin/views/product-sales-report.php:310
+#: includes/admin/views/product-sales-report.php:360
+msgid "Total Tax"
+msgstr ""
+
+#: includes/admin/views/product-sales-report.php:343
+msgid "View Product"
+msgstr ""
+
+#: includes/admin/views/order-sales-report.php:113
+#: includes/admin/views/product-sales-report.php:82
+msgid "Year"
+msgstr ""
